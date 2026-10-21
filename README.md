@@ -1,6 +1,6 @@
 ### Hi, I'm Kartik 👋
 
-Full-stack developer transitioning into AI Engineering. I build with TypeScript and Python, and I'm actively working through the AI Engineer roadmap — from Python fundamentals and DSA to LLMs and backend systems.
+Full-stack developer with 4 years of Angular, transitioning into AI Engineering. I build with TypeScript and Python, and I'm actively working through the AI Engineer roadmap — from Python fundamentals and DSA to LLMs and backend systems.
 
 ---
 
@@ -16,8 +16,10 @@ Full-stack developer transitioning into AI Engineering. I build with TypeScript 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---

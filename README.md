@@ -1,15 +1,12 @@
 ### Hi, I'm Kartik 👋
 
-Full-stack developer with 4 years of Angular, transitioning into AI Engineering. I build with TypeScript and Python, and I'm actively working through the AI Engineer roadmap — from Python fundamentals and DSA to LLMs and backend systems.
+AI Engineer and full-stack developer. I build intelligent systems with LLMs, design scalable APIs, and ship full-stack products end to end.
 
 ---
 
 **🔭 Currently working on**
-- AI Engineer roadmap ([notes →](https://github.com/kartik70/ai-engineer-roadmap))
+- [WealthOS](https://github.com/kartik70/wealthos) — AI-powered portfolio intelligence platform (RAG, LangGraph, Claude)
 - DSA practice on NeetCode
-
-**🌱 Learning**
-- Python · FastAPI · LLM fundamentals · Prompt engineering
 
 **🛠 Tech stack**
 

@@ -1,14 +1,25 @@
 ### Hi, I'm Kartik 👋
 
-AI Engineer and full-stack developer. I build intelligent systems with LLMs, design scalable APIs, and ship full-stack products end to end.
+Freelance developer. I build full-stack web apps, add LLM features to products, and automate workflows with bots and scripts. TypeScript and Python.
 
----
+**What I can help with**
+- **Full-stack web apps**: React, Angular and Node front ends, FastAPI and Node APIs
+- **AI/LLM integrations**: RAG pipelines and agents
+- **Bots and automations**: WhatsApp bots, workflow automation, integrations
+- **Dev tools and Python utilities**: CLIs, query builders, internal tooling
 
-**🔭 Currently working on**
-- [WealthOS](https://github.com/kartik70/wealthos) — AI-powered portfolio intelligence platform (RAG, LangGraph, Claude)
-- DSA practice on NeetCode
+**Things I've built**
+- [WealthOS](https://github.com/kartik70/wealthos) ([live demo](https://wealthos-liard.vercel.app)): AI-powered portfolio intelligence platform (RAG, LangGraph, Claude)
+- [query-builder](https://github.com/kartik70/query-builder): TypeScript query builder utility
+- [student-management](https://github.com/kartik70/student-management): student management system in TypeScript
+- Private projects: a delivery-management app and API for a dairy business, a WhatsApp bot for a business, and a resort booking system
 
-**🛠 Tech stack**
+**Open-source contributions**
+- Merged: [The-PR-Agent/pr-agent#4844](https://github.com/The-PR-Agent/pr-agent/pull/4844) adapted to litellm 1.108.4 header validation and registry changes, and pinned 14 OpenRouter limits that litellm understated or dropped
+- Open: [agentscope#3916](https://github.com/agentscope-ai/agentscope/pull/3916) validates `summary_template` against `summary_schema` at construction
+- Open: [OpenMausBot#5426](https://github.com/milind-soni/OpenMausBot/pull/5426) scopes the pi agent dir to an instance, closing an operator-context leak
+
+**Tech stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,20 +30,6 @@ AI Engineer and full-stack developer. I build intelligent systems with LLMs, des
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
----
+**Get in touch**
 
-**📊 GitHub Stats**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik70&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-**📌 Featured**
-
-- 🗺 [ai-engineer-roadmap](https://github.com/kartik70/ai-engineer-roadmap) — Obsidian notes for my AI Engineer journey
-- 💡 [neetcode-submissions](https://github.com/kartik70/neetcode-submissions) — DSA problem solutions
-- 💼 [wealthos](https://github.com/kartik70/wealthos) — Wealth management app
-- 🔍 [query-builder](https://github.com/kartik70/query-builder) — TypeScript query builder
+📧 kartikkakad007@gmail.com

@@ -19,4 +19,6 @@ Web apps, APIs, bots, automations, internal tools. If it needs to work in produc
 
 I'd rather show you something running than describe it.
 
+I also contribute to open source, mostly developer tools and AI tooling.
+
 📧 kartikkakad007@gmail.com

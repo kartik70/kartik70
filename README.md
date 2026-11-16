@@ -13,7 +13,7 @@ Web apps, APIs, bots, automations, internal tools. If it needs to work in produc
 - [WealthOS](https://github.com/kartik70/wealthos) ([live demo](https://wealthos-liard.vercel.app)): portfolio intelligence platform built on RAG, LangGraph and Claude
 - A delivery-management app and API for a dairy business
 - A WhatsApp bot for a business
-- A resort booking system
+- [Navin's Resort](https://navinsresort.com/): direct-booking site for a family-run resort in Chikhaldara
 
 I'd rather show you something running than describe it.
 

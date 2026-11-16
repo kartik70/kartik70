@@ -15,8 +15,6 @@ Web apps, APIs, bots, automations, internal tools. If it needs to work in produc
 - A WhatsApp bot for a business
 - A resort booking system
 
-**Stack:** TypeScript, Python, React, Angular, Node.js, FastAPI, RxJS
-
 I'd rather show you something running than describe it.
 
 I also contribute to open source, mostly developer tools and AI tooling.
